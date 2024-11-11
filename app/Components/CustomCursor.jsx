@@ -34,7 +34,7 @@ const CustomCursor = () => {
         onMouseLeave={() => setIsHover(true)}
         className="text-center text-9xl font-bold"
       >
-        Hello World!
+        Custom Cursor!
       </h1>
     </>
   );
